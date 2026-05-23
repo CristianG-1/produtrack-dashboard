@@ -11,7 +11,6 @@ en tiempo real de órdenes de trabajo en procesos agroindustriales.
 
 ## Tecnologías usadas
 - HTML / CSS / JavaScript
-- Integración con ERP SAP Business One (módulo BEAS)
 - Firebase Realtime Database (versión demo sin conexión)
 
 ## Vista previa
